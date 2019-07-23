@@ -18,10 +18,25 @@ p {
     width: 60%;
 }
 
+.less_important_paragraphs:hover{
+    color: blue;
+
+}
+
+
 a {
     color:red;
     background-color: pink;
     opacity: .5;
+}
+
+a:hover{
+    background-color: blue;
+}
+
+#important_pargraph:hover{
+    background-color: yellow;
+    font-size: 40px;
 }
 
 span {

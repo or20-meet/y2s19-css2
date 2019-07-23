@@ -6,6 +6,8 @@ h1 {
     font-size: 42pt;
     font-family: sans-serif;
     text-align: center;
+    background-color: purple;
+    background-size: 50%;
 }
 
 p {
